@@ -17,12 +17,15 @@
     display: block;
   }
   #menu a:hover {
-    background: #F1F1F1;
-    color: #333;
+    background: blue;
+    color: red;
   }
   h2{
       text-align: center;
   }
- img{
-     align: center;
+ #lienhe{
+     color: red;
+     display: inline-block;
+     background-color: blue;
+     
  }
